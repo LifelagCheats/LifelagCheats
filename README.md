@@ -3,3 +3,5 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=F70000&background=FF000000&repeat=false&random=true&width=435&lines=Visit+My+webpage+%3A))](https://git.io/typing-svg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laggy)](https://github.com/anuraghazra/github-readme-stats)
+
