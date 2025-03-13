@@ -32,6 +32,13 @@
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LifelagCheats&theme=tokyonight)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LifelagCheats/LifelagCheats/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LifelagCheats/LifelagCheats/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LifelagCheats/LifelagCheats/output/github-snake.svg" />
+</picture>
+
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Thanks+For+Visiting!+" />
 </h3>
