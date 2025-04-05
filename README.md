@@ -7,19 +7,22 @@
 </h3>
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <h3>I use...<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"/></h3>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="border: none; vertical-align: middle;" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" style="border: none; vertical-align: middle;" />
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img align="left" alt="C++" width="40" height="40" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
+    <img alt="C++" width="40" height="40" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png" style="border: none; vertical-align: middle;" />
   </a>
-  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img align="left" alt="GitHub" width="40" height="40" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="border: none; vertical-align: middle;" />
   </a>
 </p>
+
+
 
 <br clear="left"/>
 
